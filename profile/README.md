@@ -20,7 +20,3 @@
     <a href="https://github.com/sub-store-org/Sub-Store/issues">Request Feature</a>
   </p>
 </div>
-
-## Star History
-
-[![Star History](https://api.star-history.com/svg?repos=sub-store-org/sub-store&type=Date)](https://star-history.com/#sub-store-org/sub-store&Date)
