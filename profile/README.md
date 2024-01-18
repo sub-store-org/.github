@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/sub-store-org/Sub-Store">
     <img src="https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png" alt="Sub-Store" width="80" height="80">
   </a>
 
