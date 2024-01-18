@@ -2,13 +2,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/58xinian/icon/master/Sub-Store1.png" alt="Sub-Store" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png" alt="Sub-Store" width="80" height="80">
   </a>
 
   <h3 align="center">Sub-Store</h3>
 
   <p align="center">
-    The All-in-One Subscription Manager for QX, Loon, Surge, Stash, Clash, and ShadowRocket!
+    The All-in-One Subscription Manager for QX, Loon, Surge, Stash, Clash, SingBox, ShadowRocket, and More!
     <br />
     <a href="https://sub-store.vercel.app/subs"><strong>Let's Go! »</strong></a>
     <br />
